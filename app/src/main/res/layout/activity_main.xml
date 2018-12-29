@@ -42,7 +42,7 @@
         android:layout_below="@+id/image_eight_ball"
         android:layout_centerHorizontal="true"
         android:textColor="#000000"
-        android:background="#ffffff"
+        android:background="#2eb7ed"
         android:width="250dp"
         android:contentDescription="@string/askeightball"
         android:text="@string/askeightball" />
